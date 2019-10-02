@@ -1,5 +1,6 @@
 # Clinicalgenome.org Website Product
-**website-clinicalgenome** - The foundation and background for how the clinicalgenome.org website as a product is structured.
+**Repo: website-clinicalgenome**  
+The foundation and background for how the clinicalgenome.org website as a product is structured.
 
 ## How To Use
 - This repo is allows users and stakeholders a single place to learn about the clinicalgenome.org website product without having to know about each of the different code repositories.
