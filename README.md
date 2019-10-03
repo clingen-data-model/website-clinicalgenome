@@ -6,8 +6,8 @@ The foundation and background for how the clinicalgenome.org website as a produc
 The following project boards organize the different innitatives. 
 - **[clinicalgenome Website GEN3 (CURRENT SITE - LIVE)](https://github.com/orgs/clingen-data-model/projects/6)** 
 - [clinicalgenome Website GEN4 MVP (ACTIVE DEVELOPMENT)](https://github.com/orgs/clingen-data-model/projects/7) 
-- [clinicalgenome Website GEN4.1 MVP (DEV)](https://github.com/orgs/clingen-data-model/projects/8) 
-- [clinicalgenome Website GEN4.2 MVP (DEV)](https://github.com/orgs/clingen-data-model/projects/9) 
+- [clinicalgenome Website GEN4.1 RICH DOSAGE (DEV)](https://github.com/orgs/clingen-data-model/projects/8) 
+- [clinicalgenome Website GEN4.2 RICH GENE DISEASE VALIDITY (DEV)](https://github.com/orgs/clingen-data-model/projects/9) 
 
 
 ## How To Use
